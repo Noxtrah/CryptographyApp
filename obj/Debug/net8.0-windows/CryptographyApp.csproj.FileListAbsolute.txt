@@ -1,0 +1,14 @@
+D:\CryptographyApp\CryptographyApp\bin\Debug\net8.0-windows\CryptographyApp.exe
+D:\CryptographyApp\CryptographyApp\bin\Debug\net8.0-windows\CryptographyApp.deps.json
+D:\CryptographyApp\CryptographyApp\bin\Debug\net8.0-windows\CryptographyApp.runtimeconfig.json
+D:\CryptographyApp\CryptographyApp\bin\Debug\net8.0-windows\CryptographyApp.dll
+D:\CryptographyApp\CryptographyApp\bin\Debug\net8.0-windows\CryptographyApp.pdb
+D:\CryptographyApp\CryptographyApp\obj\Debug\net8.0-windows\CryptographyApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\CryptographyApp\CryptographyApp\obj\Debug\net8.0-windows\CryptographyApp.AssemblyInfoInputs.cache
+D:\CryptographyApp\CryptographyApp\obj\Debug\net8.0-windows\CryptographyApp.AssemblyInfo.cs
+D:\CryptographyApp\CryptographyApp\obj\Debug\net8.0-windows\CryptographyApp.csproj.CoreCompileInputs.cache
+D:\CryptographyApp\CryptographyApp\obj\Debug\net8.0-windows\CryptographyApp.dll
+D:\CryptographyApp\CryptographyApp\obj\Debug\net8.0-windows\refint\CryptographyApp.dll
+D:\CryptographyApp\CryptographyApp\obj\Debug\net8.0-windows\CryptographyApp.pdb
+D:\CryptographyApp\CryptographyApp\obj\Debug\net8.0-windows\CryptographyApp.genruntimeconfig.cache
+D:\CryptographyApp\CryptographyApp\obj\Debug\net8.0-windows\ref\CryptographyApp.dll
